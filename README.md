@@ -1,7 +1,3 @@
-Certainly! Below is a sample README.md file for your Python script:
-
----
-
 # Fireworks AI Chatbot API Integration
 
 This Python script demonstrates how to integrate with the Fireworks AI Chatbot API to generate responses based on user input.
