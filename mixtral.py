@@ -3,7 +3,7 @@ import json
 
 url = "https://api.fireworks.ai/inference/v1/chat/completions"
 payload = {
-  "model": "accounts/fireworks/models/mistral-7b-instruct-4k",
+  "model": "accounts/fireworks/models/mixtral-8x7b-instruct",
   "max_tokens": 4096,
   "top_p": 1,
   "top_k": 40,
